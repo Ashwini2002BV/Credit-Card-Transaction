@@ -33,5 +33,5 @@ Find the city with the highest spend-to-transaction ratio during weekends.
 Determine which city reached 500 transactions in the shortest number of days from its first transaction.
 
 🛠 Technologies Used
-SQL (MySQL or compatible dialect
+SQL (MySQL or compatible dialect)
 ![Image Alt](https://github.com/Ashwini2002BV/Credit-Card-Transaction/blob/06befba1862c68ff5c98dc132b5986364bdfd747/credit%20card%20image.webp)
