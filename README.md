@@ -1,5 +1,4 @@
 # Credit-Card-Transaction
-# Credit-Card-Transaction
 
 
 📊 Credit Card Transactions SQL Analysis
